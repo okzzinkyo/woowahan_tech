@@ -10,7 +10,6 @@
 1. 모바일 또는 데스크탑 앱에서 수정시 동기화 버튼 없이 실시간으로 다른 기기로 업로드 
   
     - 실시간 배달 위치나 chat api를 사용하면 될까? <https://pusher.com/channels>
-    - Broadcast Channel API ???
 
 2. 좋아하는 가수 신곡 or 방송활동 알림 서비스. 
 
